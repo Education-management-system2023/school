@@ -21,7 +21,7 @@ Administrators (Super Admin & Admin)
 
 **Requirements** 
 
-Check Laravel 10 Requirements https://laravel.com/docs/8.x
+Check Laravel 10 Requirements[ https://laravel.com/docs/8.x](https://laravel.com/docs/10.x)
 
 **Installation**
 - Install dependencies (composer install)
