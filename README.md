@@ -5,10 +5,12 @@
 
 
 **COLLABORATORS** 
-DANIEL NGWASI
-KELVIN MURIMI
-<a href="https://github.com/Dantechdevs/">Visit github.com</a>
-<a href="https://github.com/kelvinmurimi/">Visit github.com</a>
+**DANIEL NGWASI**   <a href="https://github.com/Dantechdevs/">Visit github.com</a>
+
+
+**KELVIN MURIMI**  <a href="https://github.com/kelvinmurimi/">Visit github.com</a>
+
+
   
 this project is on progress and we  developing for educational institutions:- schools,University, colleges built on Laravel 10
 Features/ user accounts. They include:
