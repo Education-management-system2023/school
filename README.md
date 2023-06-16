@@ -1,5 +1,9 @@
-# school##
-**Laravel School Management System** 
+**SCHOOL**
+
+
+**Laravel School Management System**
+
+
 **COLLABORATORS** 
 <a href="https://github.com/Dantechdevs/">Visit github.com</a>
 <a href="https://github.com/kelvinmurimi/">Visit github.com</a>
